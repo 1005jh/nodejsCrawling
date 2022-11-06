@@ -32,3 +32,5 @@ getHtml()
     return data;
   })
   .then((res) => log(res));
+
+//근데 아무리 생각해도 크롤링은 파이썬......
